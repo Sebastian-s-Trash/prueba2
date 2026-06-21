@@ -1,0 +1,6 @@
+@ElectroCorp.Platform_HostAddress = http://localhost:5030
+
+GET {{ElectroCorp.Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
