@@ -2,13 +2,6 @@ using ElectroCorp.Platform.Shared.Domain.Model.Entities;
 
 namespace ElectroCorp.Platform.Devices.Domain.Model.Aggregates;
 
-public enum DeviceStatus
-{
-    ON,
-    OFF,
-    Maintenance,
-    Removed
-}
 
 public class Device : IAuditableEntity
 {

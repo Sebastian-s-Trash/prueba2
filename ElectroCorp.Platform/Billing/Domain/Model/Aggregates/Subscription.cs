@@ -2,12 +2,6 @@ using ElectroCorp.Platform.Shared.Domain.Model.Entities;
 
 namespace ElectroCorp.Platform.Billing.Domain.Model.Aggregates;
 
-public enum SubscriptionStatus
-{
-    Active,
-    Canceled,
-    Expired
-}
 
 public class Subscription : IAuditableEntity
 {
