@@ -56,6 +56,9 @@ using ProblemDetailsFactory = ElectroCorp.Platform.Shared.Interfaces.Rest.Proble
 
 var builder = WebApplication.CreateBuilder(args);
 
+var port = Environment.GetEnvironmentVariable("3000") ?? "8080";
+builder.WebHost.UseUrls($"http://*:{port}");
+
 // Add services to the container.
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 builder.Services.AddControllers(options => options.Conventions.Add(new KebabCaseRouteNamingConvention()));
@@ -196,6 +199,6 @@ app.UseRouting();
 app.UseRequestAuthorization();
 
 app.UseHttpsRedirection();
-app.MapControllers();
+app.MapControllers(); 
 
 app.Run();
