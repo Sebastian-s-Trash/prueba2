@@ -203,3 +203,4 @@ C:\Users\Sebastian\Downloads\appWeb-Electrocorp\ElectroCorp\ElectroCorp.Platform
 C:\Users\Sebastian\Downloads\appWeb-Electrocorp\ElectroCorp\ElectroCorp.Platform\obj\Debug\net10.0\ElectroCorp.Platform.pdb
 C:\Users\Sebastian\Downloads\appWeb-Electrocorp\ElectroCorp\ElectroCorp.Platform\obj\Debug\net10.0\ElectroCorp.Platform.genruntimeconfig.cache
 C:\Users\Sebastian\Downloads\appWeb-Electrocorp\ElectroCorp\ElectroCorp.Platform\obj\Debug\net10.0\ref\ElectroCorp.Platform.dll
+C:\Users\Sebastian\Downloads\appWeb-Electrocorp\ElectroCorp\ElectroCorp.Platform\obj\Debug\net10.0\ElectroCorp.Platform.sourcelink.json
