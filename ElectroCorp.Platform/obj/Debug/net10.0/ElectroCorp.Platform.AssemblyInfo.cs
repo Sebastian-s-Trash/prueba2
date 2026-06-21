@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElectroCorp.Platform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6884e37d97c9dc0b36adea171f550585acf0d99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfb6d0badbf79a567503845adfd5302114469c02")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElectroCorp.Platform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElectroCorp.Platform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
